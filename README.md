@@ -1,7 +1,9 @@
 # GOPASS: Full Stack Event Discovery and Digital Pass Platform
 
 Live Deployment: https://gopass-main.vercel.app/
+
 Frontend : Vercel
+
 Backend : Render (So it will take time for the first api call you make)
 
 ## Repository Consolidation
