@@ -1,0 +1,31 @@
+# Dependency and build directories
+Frontend/node_modules/
+Frontend/dist/
+Frontend/dist-ssr/
+Backend/target/
+Backend/.mvn/wrapper/maven-wrapper.jar
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment files
+.env
+.env.local
+Frontend/.env.local
+Backend/.env
+
+# IDE and system files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
