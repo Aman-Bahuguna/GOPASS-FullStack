@@ -1,10 +1,12 @@
 # GOPASS: Full Stack Event Discovery and Digital Pass Platform
 
 Live Deployment: https://gopass-main.vercel.app/
+Frontend : Vercel
+Backend : Render (So it will take time for the first api call you make)
 
 ## Repository Consolidation
 
-Earlier, the frontend and the backend of this project were developed and maintained across two separate repositories. The backend was created by the backend collaborator, while the frontend was created by the frontend author. Both codebases have now been unified into this single repository to provide an integrated full stack development workflow, centralized documentation, and streamlined deployment.
+Earlier, the frontend and the backend of this project were developed and maintained across two separate repositories.  
 
 ## Project Overview
 
